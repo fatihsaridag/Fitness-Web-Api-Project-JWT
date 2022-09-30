@@ -1,0 +1,15 @@
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\bin\Debug\net5.0\FitnessAuthSever.Core.deps.json
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\bin\Debug\net5.0\FitnessAuthSever.Core.dll
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\bin\Debug\net5.0\ref\FitnessAuthSever.Core.dll
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\bin\Debug\net5.0\FitnessAuthSever.Core.pdb
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\FitnessAuthSever.Core.csproj.AssemblyReference.cache
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\FitnessAuthSever.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\FitnessAuthSever.Core.AssemblyInfoInputs.cache
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\FitnessAuthSever.Core.AssemblyInfo.cs
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\FitnessAuthSever.Core.csproj.CoreCompileInputs.cache
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\FitnessAuthSever.Core.csproj.CopyComplete
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\FitnessAuthSever.Core.dll
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\ref\FitnessAuthSever.Core.dll
+C:\Users\fsari\source\repos\FitnessAuthServer.API\FitnessAuthSever.Core\obj\Debug\net5.0\FitnessAuthSever.Core.pdb
